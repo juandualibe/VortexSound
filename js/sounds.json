@@ -52,21 +52,21 @@
         "image": "img/nin.jpeg",
         "title": "Nine Inch Nails",
         "description": "Branches/Bones",
-        "audio": "audio/.mp3"
+        "audio": "audio/Branches-Bones.mp3"
       }
       
     ],
     "spotifyPlaylists": [
       {
-        "image": "img/spotifyplaylists/todaytophits.jpg",
-        "title": "Today's Top Hits",
-        "description": "Miley Cyrus is on top of the Hottest 50!",
+        "image": "img/.jpg",
+        "title": "The Brian Jonestown Massacre",
+        "description": "Straight Up And Down",
         "audio": "audio/Brian-Jonestown-Massacre-Straight-Up-And-Down.mp3"
       },
       {
-        "image": "img/spotifyplaylists/rapcaviar.jpg",
-        "title": "RapCaviar",
-        "description": "New music from Metro Boomin, NLE Choppa and Rae Sremmurd.",
+        "image": "img/.jpg",
+        "title": "",
+        "description": "Everlasting",
         "audio": "audio/Everlasting.mp3"
       }
       
